@@ -1,0 +1,85 @@
+body {
+  text-align: center;
+  background-image: url("../images/drum.jpeg");
+  /* background-color: #283149; */
+}
+
+h1 {
+  font-size: 5rem;
+  color: #DBEDF3;
+  font-family: "Arvo", cursive;
+  text-shadow: 3px 3px 15px #DA0463;
+
+}
+
+footer {
+  color: #DB0463;
+  font-family: sans-serif;
+  float:right;
+  font-size: xx-small;
+}
+
+.sa {
+  background-image: url("../images/tom1.jpg");
+}
+
+.re {
+  background-image: url("../images/tom1.jpg");
+}
+
+.ga {
+  background-image: url("../images/tom1.jpg");
+}
+
+.ma {
+  background-image: url("../images/tom1.jpg");
+}
+
+.pa {
+  background-image: url("../images/tom1.jpg");
+}
+
+.da {
+  background-image: url("../images/tom1.jpg");
+}
+
+.ni {
+  background-image: url("../images/tom1.jpg");
+}
+
+.set {
+  margin: 10% auto;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
+
+.drum {
+  outline: none;
+  border: 10px solid #404B69;
+  font-size: 5rem;
+  font-family: 'Arvo', cursive;
+  line-height: 2;
+  font-weight: 900;
+  color:#fff;
+  text-shadow: 3px 3px 15px #E11299;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  
+  margin: 10px;
+  background-color: white;
+}
